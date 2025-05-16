@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nitishchy12/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/nitishchy12/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nitishchy12/LeetCode/tree/master/0198-house-robber) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/nitishchy12/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/nitishchy12/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nitishchy12/LeetCode/tree/master/0198-house-robber) |
 ## Two Pointers
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nitishchy12/LeetCode/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/nitishchy12/LeetCode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
