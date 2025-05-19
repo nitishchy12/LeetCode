@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nitishchy12/LeetCode/tree/master/0198-house-robber) |
 | [0967-minimum-falling-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nitishchy12/LeetCode/tree/master/0062-unique-paths) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nitishchy12/LeetCode/tree/master/0242-valid-anagram) |
+| [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
