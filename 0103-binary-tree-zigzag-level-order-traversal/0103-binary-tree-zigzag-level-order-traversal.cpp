@@ -16,37 +16,44 @@ public:
         if(root==nullptr){
             return res;
         }
-        queue<TreeNode* >q;
-        stack<int>s;
-        bool reverse=false;
-        q.push(root);
-        while(!q.empty()){
-            int count=q.size();
+        stack<TreeNode*>s1;
+        stack<TreeNode*>s2;
+        s1.push(root);
+        while(!s1.empty()|| !s2.empty()){
             vector<int>ans;
-            for(int i=0;i<count;i++){
-                TreeNode *curr=q.front();
-                q.pop();
-                if(reverse){
-                    s.push(curr->val);
+            while(!s1.empty()){
+                TreeNode* curr1=s1.top();
+                s1.pop();
+                ans.push_back(curr1->val);
+                if(curr1->left!=nullptr){
+                    s2.push(curr1->left);
                 }
-                else{
-                    ans.push_back(curr->val);
-                }
-                if(curr->left!=nullptr){
-                    q.push(curr->left);
-                }
-                if(curr->right!=nullptr){
-                    q.push(curr->right);
+                if(curr1->right!=nullptr){
+                    s2.push(curr1->right);
                 }
             }
-            if(reverse){
-                while(!s.empty()){
-                    ans.push_back(s.top());
-                    s.pop();
+
+            if (!ans.empty()) {
+                res.push_back(ans);
+            }
+            ans.clear();
+
+            while(!s2.empty()){
+                TreeNode* curr2=s2.top();
+                s2.pop();
+                ans.push_back(curr2->val);
+                if(curr2->right!=nullptr){
+                    s1.push(curr2->right);
+                }
+                if(curr2->left!=nullptr){
+                    s1.push(curr2->left);
                 }
             }
-            res.push_back(ans);
-            reverse=!reverse;
+             if (!ans.empty()) {
+                res.push_back(ans);
+            }
+
+            ans.clear();
         }
         return res;
     }
