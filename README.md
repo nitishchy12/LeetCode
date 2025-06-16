@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitishchy12/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/nitishchy12/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nitishchy12/LeetCode/tree/master/0198-house-robber) |
+| [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitishchy12/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitishchy12/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nitishchy12/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nitishchy12/LeetCode/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishchy12/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
