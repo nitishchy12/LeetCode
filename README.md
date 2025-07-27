@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/nitishchy12/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nitishchy12/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/nitishchy12/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitishchy12/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
