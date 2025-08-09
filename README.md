@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nitishchy12/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nitishchy12/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitishchy12/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nitishchy12/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitishchy12/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/nitishchy12/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitishchy12/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nitishchy12/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitishchy12/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nitishchy12/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nitishchy12/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nitishchy12/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitishchy12/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
