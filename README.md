@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nitishchy12/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitishchy12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitishchy12/LeetCode/tree/master/0342-power-of-four) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nitishchy12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nitishchy12/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
