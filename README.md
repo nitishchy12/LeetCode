@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitishchy12/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nitishchy12/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/nitishchy12/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## String Matching
 |  |
 | ------- |
