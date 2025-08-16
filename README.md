@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nitishchy12/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitishchy12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitishchy12/LeetCode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/nitishchy12/LeetCode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nitishchy12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nitishchy12/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/nitishchy12/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nitishchy12/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nitishchy12/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitishchy12/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
