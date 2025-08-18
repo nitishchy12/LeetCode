@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/nitishchy12/LeetCode/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/nitishchy12/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitishchy12/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/nitishchy12/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/nitishchy12/LeetCode/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nitishchy12/LeetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/nitishchy12/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/nitishchy12/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/nitishchy12/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nitishchy12/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitishchy12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitishchy12/LeetCode/tree/master/0342-power-of-four) |
@@ -314,5 +316,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nitishchy12/LeetCode/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nitishchy12/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitishchy12/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
