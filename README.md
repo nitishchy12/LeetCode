@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nitishchy12/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitishchy12/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/nitishchy12/LeetCode/tree/master/0204-count-primes) |
+| [0221-maximal-square](https://github.com/nitishchy12/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/nitishchy12/LeetCode/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nitishchy12/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nitishchy12/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nitishchy12/LeetCode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/nitishchy12/LeetCode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/nitishchy12/LeetCode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitishchy12/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nitishchy12/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/nitishchy12/LeetCode/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
