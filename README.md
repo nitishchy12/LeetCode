@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nitishchy12/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/nitishchy12/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/nitishchy12/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nitishchy12/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nitishchy12/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Two Pointers
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/nitishchy12/LeetCode/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
 | ------- |
@@ -286,11 +289,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitishchy12/LeetCode/tree/master/0020-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/nitishchy12/LeetCode/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nitishchy12/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/nitishchy12/LeetCode/tree/master/0937-online-stock-span) |
+| [1628-count-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Data Stream
 |  |
 | ------- |
