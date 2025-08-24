@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/nitishchy12/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/nitishchy12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nitishchy12/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nitishchy12/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nitishchy12/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/nitishchy12/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/nitishchy12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nitishchy12/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/nitishchy12/LeetCode/tree/master/1813-maximum-erasure-value) |
 ## Matrix
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishchy12/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishchy12/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1046-max-consecutive-ones-iii](https://github.com/nitishchy12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/nitishchy12/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -347,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nitishchy12/LeetCode/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/nitishchy12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
