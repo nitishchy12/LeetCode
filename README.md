@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/nitishchy12/LeetCode/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/nitishchy12/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/nitishchy12/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/nitishchy12/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/nitishchy12/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitishchy12/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/nitishchy12/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/nitishchy12/LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/nitishchy12/LeetCode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitishchy12/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
