@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         k=k%n;
         if(k==0)
-        return 0;
+        return ;
         int temp[k];
         for(int i=0;i<k;i++){
             temp[i]=nums[n-k+i];
