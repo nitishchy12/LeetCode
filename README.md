@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nitishchy12/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitishchy12/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishchy12/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nitishchy12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nitishchy12/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nitishchy12/LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/nitishchy12/LeetCode/tree/master/0053-maximum-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitishchy12/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/nitishchy12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nitishchy12/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/nitishchy12/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nitishchy12/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nitishchy12/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/nitishchy12/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nitishchy12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nitishchy12/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitishchy12/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -312,12 +315,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitishchy12/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/nitishchy12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/nitishchy12/LeetCode/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nitishchy12/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nitishchy12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/nitishchy12/LeetCode/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/nitishchy12/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Data Stream
