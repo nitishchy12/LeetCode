@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitishchy12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitishchy12/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/nitishchy12/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/nitishchy12/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nitishchy12/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitishchy12/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/nitishchy12/LeetCode/tree/master/0204-count-primes) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitishchy12/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitishchy12/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/nitishchy12/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nitishchy12/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/nitishchy12/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/nitishchy12/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/nitishchy12/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nitishchy12/LeetCode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nitishchy12/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nitishchy12/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nitishchy12/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nitishchy12/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/nitishchy12/LeetCode/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitishchy12/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
 |  |
