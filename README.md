@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/nitishchy12/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/nitishchy12/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/nitishchy12/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/nitishchy12/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/nitishchy12/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nitishchy12/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/nitishchy12/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/nitishchy12/LeetCode/tree/master/0937-online-stock-span) |
 ## Binary Search Tree
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/nitishchy12/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/nitishchy12/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
