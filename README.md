@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nitishchy12/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/nitishchy12/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nitishchy12/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitishchy12/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nitishchy12/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitishchy12/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitishchy12/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0940-fruit-into-baskets](https://github.com/nitishchy12/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishchy12/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nitishchy12/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/nitishchy12/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitishchy12/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitishchy12/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
