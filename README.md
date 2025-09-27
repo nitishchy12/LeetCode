@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nitishchy12/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/nitishchy12/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/nitishchy12/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/nitishchy12/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitishchy12/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/nitishchy12/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nitishchy12/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nitishchy12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nitishchy12/LeetCode/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/nitishchy12/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nitishchy12/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/nitishchy12/LeetCode/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nitishchy12/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitishchy12/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/nitishchy12/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
