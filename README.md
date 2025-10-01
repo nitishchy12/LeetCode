@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nitishchy12/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitishchy12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitishchy12/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitishchy12/LeetCode/tree/master/0031-next-permutation) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitishchy12/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/nitishchy12/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitishchy12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitishchy12/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nitishchy12/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/nitishchy12/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/nitishchy12/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nitishchy12/LeetCode/tree/master/0169-majority-element) |
