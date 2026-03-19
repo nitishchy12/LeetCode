@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/0085-maximal-rectangle) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/1845-largest-submatrix-with-rearrangements) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/0085-maximal-rectangle) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/1845-largest-submatrix-with-rearrangements) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/1845-largest-submatrix-with-rearrangements) |
+## Prefix Sum
+|  |
+| ------- |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nitishchy12/LeetCode/tree/master/LeetCode/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
