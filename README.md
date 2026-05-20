@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitishchy12/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitishchy12/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nitishchy12/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitishchy12/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitishchy12/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitishchy12/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitishchy12/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitishchy12/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/nitishchy12/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitishchy12/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitishchy12/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nitishchy12/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitishchy12/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nitishchy12/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/nitishchy12/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitishchy12/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitishchy12/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitishchy12/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
