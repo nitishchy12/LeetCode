@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nitishchy12/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/nitishchy12/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitishchy12/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nitishchy12/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nitishchy12/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nitishchy12/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nitishchy12/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/nitishchy12/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitishchy12/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nitishchy12/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitishchy12/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitishchy12/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nitishchy12/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nitishchy12/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/nitishchy12/LeetCode/tree/master/0342-power-of-four) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nitishchy12/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitishchy12/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
