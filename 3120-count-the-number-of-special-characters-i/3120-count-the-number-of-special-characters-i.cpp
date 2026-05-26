@@ -1,17 +1,16 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        unordered_set<char>s;
-        int res=0;
+        bool s[128]={};
         for(char c:word){
-            if(islower(c) && !(s).count(c)){
-                 char u=toupper(c);
-                 if(word.find(u)!=string::npos){
-                    res++;
-                    s.insert(c);
-                 }
+            s[c]=true;
+        }
+        int count=0;
+        for(int i=0;i<26;i++){
+            if(s['a'+i] && s['A'+i]){
+               count++;
             }
         }
-        return res;
+        return count;
     }
 };
