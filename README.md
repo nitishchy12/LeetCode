@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitishchy12/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nitishchy12/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitishchy12/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/nitishchy12/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitishchy12/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/nitishchy12/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nitishchy12/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitishchy12/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/nitishchy12/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitishchy12/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nitishchy12/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
