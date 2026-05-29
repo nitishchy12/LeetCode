@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitishchy12/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nitishchy12/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nitishchy12/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitishchy12/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nitishchy12/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nitishchy12/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nitishchy12/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nitishchy12/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nitishchy12/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitishchy12/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/nitishchy12/LeetCode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitishchy12/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
