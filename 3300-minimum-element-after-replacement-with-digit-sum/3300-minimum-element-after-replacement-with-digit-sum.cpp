@@ -1,14 +1,18 @@
 class Solution {
 public:
+    int digitsum(int n){
+          int sum=0;
+          while(n>0){
+            sum+=n%10;
+            n/=10;
+          }
+          return sum;
+    }
+
     int minElement(vector<int>& nums) {
         int minVal=INT_MAX;
         for(int x:nums){
-            int ds=0;
-            while(x>0){
-                ds+=x%10;
-                x/=10;
-            }
-            minVal=min(minVal,ds);
+            minVal=min(minVal,digitsum(x));
         }
         return minVal;
     }
