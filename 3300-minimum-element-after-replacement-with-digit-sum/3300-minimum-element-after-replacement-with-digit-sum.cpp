@@ -3,13 +3,13 @@ public:
     int minElement(vector<int>& nums) {
         int minVal=INT_MAX;
         for(int x:nums){
-            string s=to_string(x);
             int ds=0;
-            for(char c:s){
-                ds+=(c-'0');
+            while(x>0){
+                ds+=x%10;
+                x/=10;
             }
-                minVal=min(minVal,ds);
-            }
+            minVal=min(minVal,ds);
+        }
         return minVal;
     }
 };
