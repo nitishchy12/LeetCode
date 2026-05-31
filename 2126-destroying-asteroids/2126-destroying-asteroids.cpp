@@ -1,14 +1,13 @@
 class Solution {
 public:
     bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
-        int n=asteroids.size();
         sort(asteroids.begin(),asteroids.end());
         long long planet=mass;
-        for(int i=0;i<n;i++){
-            if(planet<asteroids[i])
+        for(int a:asteroids){
+            if(planet<a)
             return false;
 
-           planet+=asteroids[i];
+            planet+=a;
         }
         return true;
     }
